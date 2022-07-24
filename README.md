@@ -2,7 +2,7 @@
 <h3 align="center">A CSE Junior who invites new fields and working as a team.</h3>
 <img align="right" alt="Coding" width="300" src="https://media4.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=ecf05e47p60rjwlgkz89re4rv3vjdn1qaowxcmyu109q9d8v&rid=giphy.gif&ct=g">
 
-- 🔭 I’m currently working on [Mark-AI Voice Assistant](https://github.com/aneesh-learner/Mark)
+- 🔭 I’m currently working on [Quizo-A full stack APP]
 
 - 📫 How to reach me **sunnykumar12928@gmail.com**
 

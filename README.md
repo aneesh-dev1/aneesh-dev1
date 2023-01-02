@@ -9,7 +9,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/aneesh1029" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aneesh1029" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/aneesh1029" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aneesh1029" height="30" width="40" /></a>
+<a href="https://leetcode.com/aneesh1029/" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/2x/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="aneesh1029" height="40" width="40" /></a>
 <a href="https://www.hackerrank.com/aneesh_ku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aneesh_ku" height="30" width="40" /></a>
 </p>
 

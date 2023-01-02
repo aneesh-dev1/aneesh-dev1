@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aneesh Kumar</h1>
-<h3 align="center">A CSE Junior who invites new fields and working as a team.</h3>
+<h3 align="center">A CSE Senior who invites new fields and working as a team.</h3>
 <img align="right" alt="Coding" width="300" src="https://media4.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=ecf05e47p60rjwlgkz89re4rv3vjdn1qaowxcmyu109q9d8v&rid=giphy.gif&ct=g">
 
 - 🔭 I’m currently working on [Web 3.0 development]
